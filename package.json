@@ -1,0 +1,28 @@
+{
+  "name": "potterytracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketalley/potterytracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miketalley/potterytracker/issues"
+  },
+  "homepage": "https://github.com/miketalley/potterytracker#readme",
+  "dependencies": {
+    "ampersand": "^3.0.6",
+    "ampersand-app": "^1.0.4",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.7",
+    "react": "^0.14.7",
+    "redux": "^3.3.1",
+    "webpack": "^1.12.13"
+  }
+}
